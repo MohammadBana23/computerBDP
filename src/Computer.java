@@ -13,7 +13,7 @@ public class Computer {
         this.cpu = builder.cpu;
         this.hdd = builder.hdd;
         this.isGraphicsCardEnable = builder.isGraphicsCardEnable;
-        this.isBluetoothEnable = builder.isBluetoothEnable; 
+        this.isBluetoothEnable = builder.isBluetoothEnable;
     }
 
     public String getRam() {
